@@ -17,6 +17,11 @@ A comprehensive calculator application developed in C Language. This tool goes b
 * **Structures (structs):** Implemented for Complex number calculations.
 * **Macros:** Cross-platform screen clearing for Windows/Linux.
 
+## 🔮 Future Roadmap
+* Add a **File I/O system** to save calculation history to a text file.
+* Implement **Inverse** and **Determinant** functions for the Matrix mode.
+* Create a simple **GUI** (Graphical User Interface) in the future.
+
   ## 💻 How to Run
 
 ### Method 1: Using an IDE (Easier)
